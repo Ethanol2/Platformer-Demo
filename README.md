@@ -1,2 +1,2 @@
-# Platformer-Demo
-Very basic demo made in Unity
+# Platformer Demo
+A very basic demo made in Unity.
